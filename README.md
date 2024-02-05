@@ -1,6 +1,3 @@
-# MIT Pokerbots 2024 Engine
-MIT Pokerbots engine and skeleton bots in Python, Java, and C++.
-
 The command to run the engine is `python3 engine.py`. The engine is configured via `config.py`.
 
 ## Dependencies
